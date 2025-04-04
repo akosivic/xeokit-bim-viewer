@@ -1,10 +1,10 @@
 {
-	"id": "Project1_IFC4",
-	"name": "project1 ifc4",
+	"id": "Project2",
+	"name": "project2",
 	"models": [
 		{
 			"id": "design",
-			"name": "project1 ifc4",
+			"name": "project2",
 			"colorTextureEnabled": true
 		}
 	],
